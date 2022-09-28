@@ -1,0 +1,32 @@
+{
+  "name": "Fatal Foxes #524",
+  "symbol": "FOX",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/QHBnzHy6PLas2j-zOwo6JB9K-YheNl9u62pFQSUkaug",
+  "attributes": [
+  {
+      "trait_type": "Type",
+      "value": "Unrevealed"
+    }
+  ],
+  "collection": {
+    "name": "Fatal Foxes",
+    "family": "Fatal Foxes"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/QHBnzHy6PLas2j-zOwo6JB9K-YheNl9u62pFQSUkaug",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
